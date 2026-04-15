@@ -1,0 +1,31 @@
+body {
+  background:#0a0e1a;
+  color:white;
+  font-family:Arial;
+  text-align:center;
+}
+
+nav {
+  display:flex;
+  justify-content:space-between;
+  padding:1rem;
+  background:#111827;
+}
+
+.hero {
+  padding:3rem;
+}
+
+.btn-primary {
+  background:#00e5ff;
+  padding:10px;
+  margin:5px;
+  display:inline-block;
+}
+
+.btn-secondary {
+  border:1px solid white;
+  padding:10px;
+}
+
+.lesson-card {
